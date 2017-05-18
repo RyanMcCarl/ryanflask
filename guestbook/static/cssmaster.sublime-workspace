@@ -1,0 +1,881 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lookali",
+				"lookalikes"
+			],
+			[
+				"app",
+				"app_url_defaults\tFlask"
+			],
+			[
+				"kanji",
+				"kanji_data"
+			],
+			[
+				"get_kanji_",
+				"get_kanji_patterns"
+			],
+			[
+				"word",
+				"as\tkeyword"
+			],
+			[
+				"name",
+				"__name__\tmagic"
+			],
+			[
+				"Bi",
+				"BigramCollocationFinder"
+			],
+			[
+				"pprint",
+				"print\tprint"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ryan/Dropbox/dev/ryanflask/guestbook/guestbook.py",
+			"settings":
+			{
+				"buffer_size": 1455,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ryan/Dropbox/dev/ryanflask/guestbook/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 375,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ryan/Dropbox/dev/ryanflask/guestbook/templates/csspractice.html",
+			"settings":
+			{
+				"buffer_size": 9749,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 626,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pytho",
+		"selected_items":
+		[
+			[
+				"pytho",
+				"Build With: Python3"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bui",
+				"Build With: Python3"
+			],
+			[
+				"settings",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"pyt",
+				"Build With: Python3"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Python3"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Create Package File"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"buil",
+				"Build With: Python3"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"permute",
+				"Permute Lines: Unique"
+			],
+			[
+				"",
+				"Build With: Python3"
+			],
+			[
+				"python3",
+				"Build With: Python3"
+			],
+			[
+				"perm",
+				"Permute Lines: Unique"
+			],
+			[
+				"sort ",
+				"Sort Lines"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"uniqu",
+				"Permute Lines: Unique"
+			],
+			[
+				"bu",
+				"Build With: Python3"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"python",
+				"Build With: Python3"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"permu",
+				"Permute Lines: Unique"
+			],
+			[
+				"pyhto",
+				"Build With: Python3"
+			],
+			[
+				"pyth",
+				"Build With: Python3"
+			],
+			[
+				"per",
+				"Permute Lines: Unique"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"unfo",
+				"Python Docstrings: Unfold"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"p",
+				"Permute Lines: Unique"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uniuq",
+				"Permute Lines: Unique"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"permi",
+				"Permute Lines: Unique"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ryan/Dropbox/dev/wbtools/parse_kanji_elements.py",
+		"/home/ryan/Dropbox/dev/wbtools/get_kanji.py",
+		"/home/ryan/wbblog/_includes/head.html",
+		"/home/ryan/Dropbox/dev/ryanflask/guestbook/stylesheets/styles.css",
+		"/home/ryan/Dropbox/dev/ryanflask/guestbook/styles.css",
+		"/home/ryan/Dropbox/dev/ryanflask/guestbook/csspractice.html",
+		"/home/ryan/Dropbox/dev/wbtools/parse_xml.py",
+		"/home/ryan/Dropbox/dev/wbtools/wb_comma_tags.txt",
+		"/home/ryan/Dropbox/dev/wbtools/nltk_secondary.py",
+		"/home/ryan/Dropbox/dev/wbtools/jdictreader.py",
+		"/home/ryan/Dropbox/dev/wbtools/jdict.py",
+		"/home/ryan/Dropbox/dev/wbtools/spanishblogseries.py",
+		"/home/ryan/Dropbox/dev/wbtools/regex_test.py",
+		"/home/ryan/Dropbox/dev/wbtools/nltk_tools.py",
+		"/home/ryan/Dropbox/dev/wbtools/errors.log",
+		"/home/ryan/Dropbox/dev/wbtools/csv_change.py",
+		"/home/ryan/Dropbox/dev/wbtools/tests/mongoutils_tests.py",
+		"/home/ryan/Dropbox/dev/wbtools/spanish_fundamentals/spanishcourse.py",
+		"/home/ryan/Dropbox/dev/wbtools/spanish_fundamentals/spanishblogseries.py",
+		"/home/ryan/Dropbox/dev/wbtools/spanish_fundamentals/spanish_lemmatizer_make.py",
+		"/home/ryan/Dropbox/dev/wbtools/nltk/nltk_tools.py",
+		"/home/ryan/Dropbox/dev/wbtools/nltk/nltk_secondary.py",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/get_kanji.py",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/get_kanji_old.py",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/kanji_order.org",
+		"/home/ryan/Dropbox/dev/wbtools/readingjp.org",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/kanji_order.py",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/kanjiscore.py",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/wbkanji.py",
+		"/home/ryan/Dropbox/dev/wbtools/jdict/jdictreader.py",
+		"/home/ryan/Dropbox/dev/wbtools/jdict/jdictparse.py",
+		"/home/ryan/Dropbox/dev/wbtools/jdict/jdict.py",
+		"/home/ryan/Dropbox/dev/wbtools/blog_tools/wb_blogging_tools.py",
+		"/home/ryan/Dropbox/dev/wbtools/blog_tools/wb_blogging_tools_old.py",
+		"/home/ryan/Dropbox/dev/wbtools/blog_tools/wbblog copy.py",
+		"/home/ryan/Dropbox/dev/wbtools/blog_tools/wbblog-old.py",
+		"/home/ryan/Dropbox/dev/wbtools/blog_tools/wbblog-basic.py",
+		"/home/ryan/Dropbox/dev/wbtools/blog_tools/wbblog.py",
+		"/home/ryan/Dropbox/dev/wbtools/anki_tools/anki_updater.py",
+		"/home/ryan/Dropbox/dev/wbtools/anki_tools/csv_change.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/language.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/language copy.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/languagedb.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/lemmatester.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/lemmatize.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/sentence_db_updater.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/wordDB.py",
+		"/home/ryan/Dropbox/dev/wbtools/wbwords.py",
+		"/home/ryan/Dropbox/dev/wbtools/wbutilities.py",
+		"/home/ryan/Dropbox/dev/wbtools/wbconfig.py",
+		"/home/ryan/Dropbox/dev/wbtools/scratch.py",
+		"/home/ryan/Dropbox/dev/wbtools/retest.py",
+		"/home/ryan/Dropbox/dev/wbtools/reject_outliers.py",
+		"/home/ryan/Dropbox/dev/wbtools/readingjp.py",
+		"/home/ryan/Dropbox/dev/wbtools/jp_bigrams.py",
+		"/home/ryan/Dropbox/dev/dev-language/language/wordDB_old.txt",
+		"/home/ryan/Dropbox/dev/wbtools/wbusers/userdb.py",
+		"/home/ryan/Dropbox/dev/wbtools/fix_encoding.py",
+		"/home/ryan/Dropbox/dev/wbtools/requirements.txt",
+		"/home/ryan/Dropbox/dev/wbtools/nltk/jp_bigrams.py",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async/impl/buffers.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async/impl/channels.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async/impl/dispatch.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async/impl/protocols.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/core/async/impl/timers.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/reader.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/repl.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/tools/reader.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/tools/reader/edn.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/tools/reader/impl/commons.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/tools/reader/impl/utils.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cljs/tools/reader/reader_types.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/clojure/data.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/clojure/set.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/clojure/string.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/clojure/walk.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/cognitect/transit.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/arrays.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/btset.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/core.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/db.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/impl/entity.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/lru.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/parser.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/pull_api.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/pull_parser.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/datascript/query.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/figwheel/client.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/figwheel/client/file_reloading.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/figwheel/client/heads_up.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/figwheel/client/socket.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/figwheel/client/utils.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/config.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/consts.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/core.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/data.cljc.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/db.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/handlers.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/routes.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/krad/views.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/core.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/db.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/handlers.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/middleware.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/router.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/subs.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/undo.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/re_frame/utils.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/core.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/debug.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/dom.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/dom/server.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/impl/batching.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/impl/component.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/impl/template.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/impl/util.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/reagent/ratom.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/secretary/core.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/encore.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/sente.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/sente/interfaces.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/timbre.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/timbre/appenders/core.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/truss.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/archive/kanjipath/resources/public/js/compiled/out/taoensso/truss/impl.cljs.cache.edn",
+		"/home/ryan/Dropbox/dev/wbtools/kanji/data/mappings/parse_kanji_elements.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 306.0,
+		"where_history":
+		[
+			"/home/ryan/Dropbox/dev/wbtools",
+			"/home/ryan/wbblog/_drafts",
+			"/home/ryan/wbblog",
+			"/home/ryan/Downloads/Untitled Folder",
+			"/home/ryan/wbblog",
+			"/home/ryan/Dropbox/dev/wordbrewery-blog",
+			"/home/ryan/Dropbox/dev/frequencyLists/English",
+			"/run/media/ryan/RyanSD/wb-app",
+			"/home/ryan/wbblog",
+			"/home/ryan/Dropbox/trumpyears",
+			"/home/ryan/Dropbox/dev/trumpyears",
+			"/home/ryan/Dropbox/dev/trumpyears/pelican-clean-blog",
+			"/home/ryan/Dropbox/dev/trumpyears/pelican-clean-blog/templates",
+			"/home/ryan/Dropbox/dev/trumpyears/pelican-clean-blog",
+			"/home/ryan/Dropbox/dev/trumpyears",
+			"/home/ryan/trumpyears",
+			"/home/ryan/trumpyears/content",
+			"/home/ryan/trumpyears"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"all_",
+			"\\n",
+			"(.*) app",
+			"language",
+			"(.*) language",
+			"learn (.*)",
+			" $",
+			"get_readings",
+			"onyo",
+			"impo",
+			"get_freq",
+			"get",
+			"kanji_in_kanjidic_frequency_order",
+			"'kanji/",
+			"kanjidict",
+			"'kanji/",
+			"legitimate_kanji",
+			".join",
+			"/home/ryan/Dropbox/dev/wbtools/",
+			"jp_stopwords",
+			",",
+			"   ",
+			"rm_kanji",
+			"group_by_pattern",
+			"radicals_by",
+			"radicals_by_kanji",
+			"與",
+			"\\t",
+			"与",
+			"radicals",
+			"get_kanji_pa",
+			"get_kanji_ra",
+			" ",
+			" , ",
+			"孕",
+			",",
+			"variant",
+			"\\(C\\)",
+			"\u0000",
+			"['\"a-zA-Z;\\- \\(\\)\\.0-9]+,*$",
+			" +",
+			"[A-Za-z0-9,]",
+			"^(\\w),(.+?),",
+			",*['\"a-zA-Z;\\- \\(\\)\\.0-9]+,*$",
+			",*['\"a-zA-Z;\\- \\(\\)\\.]+,*$",
+			",*[a-zA-Z;\\- \\(\\)\\.]+,*$",
+			",*[a-zA-Z;\\- \\(\\)\\.]+,+$",
+			",*[a-zA-Z;\\- ]+,+$",
+			"(\\w+),\\d+,\\d+,",
+			"integer",
+			"count",
+			"similar",
+			"possible",
+			"一",
+			"⼝",
+			"'",
+			"\\[|\\]",
+			" ",
+			"', '",
+			" ",
+			"'",
+			"', '",
+			"\\[|\\]",
+			"(.)(.)",
+			"..",
+			"々",
+			"...",
+			",",
+			" +",
+			"^ +",
+			",(\\w)",
+			"(\\w)",
+			",",
+			"(\\w+),.*",
+			"頬\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"頬",
+			"(\\w+),.*",
+			".*''.*\\n",
+			".*.*",
+			"make_c",
+			"暴",
+			"籐",
+			"暴",
+			"= normal",
+			"'\\n'",
+			"kanji_list",
+			"get_kanji_frequency",
+			"幡",
+			"場\n",
+			"注\n",
+			"mode='a'",
+			"初版",
+			"復活",
+			"水崎基一",
+			"８",
+			"secondclean",
+			"O",
+			"(.)",
+			"^$\\n",
+			"^$",
+			"^ +$",
+			"(.)",
+			" $",
+			"^ +",
+			"\\w",
+			"new",
+			"stemmer",
+			"string",
+			" \" ",
+			" \" /",
+			" \"",
+			"published: true",
+			"<!--Usage:",
+			"char_freq",
+			"print",
+			"(\\w)",
+			"', '",
+			"(\\w)",
+			"\\w",
+			"print",
+			"print(",
+			"print ",
+			"print",
+			"^ ",
+			",",
+			"'",
+			"復活",
+			"復 活"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",",
+			"reading \\1",
+			"course",
+			"\\1 app",
+			"\\1 language",
+			"teach \\1",
+			"",
+			"kanjidic_freq",
+			"'/home/ryan/wbtools/kanji/",
+			"kanji_dict",
+			"'/home/ryan/wbtools/kanji/",
+			"possible_kanji",
+			"/home/ryan/wbtools/",
+			"jp_ignore",
+			"",
+			"\\t",
+			",",
+			"",
+			"\\t",
+			"",
+			",",
+			"",
+			"\\1\\t\\2\\t",
+			"",
+			"\\1,",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\1\\n\\2\\n",
+			"",
+			"\\n",
+			"",
+			"\\1\\n",
+			"\\n",
+			"\\1",
+			"",
+			"mode='w'",
+			"\\1\\n",
+			"",
+			"\\1\\n",
+			"",
+			"\\1\\n",
+			"\" ",
+			"\"/",
+			"\"",
+			"\\1\\n",
+			"",
+			"\\1\\n",
+			"\\w\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"'\\t' + '\\t' + '\\t' + '\\t'",
+			"\\n",
+			",",
+			"",
+			"\\1\\n",
+			"",
+			"SharedProviderModule",
+			"provider",
+			"Provider",
+			"SharedProviderModule",
+			"",
+			"\\1,",
+			"",
+			"*\\1*.",
+			" *\\1*",
+			"*\\1*",
+			"\\1 *\\2*",
+			"*\\1*",
+			"*\\1*\\2*\\3*\\4",
+			"",
+			"\\1,",
+			"",
+			"https://wb-backend.azurewebsites.net/api/",
+			"RM",
+			"trump.jpg",
+			"'{{ SITEURL }}/images/trump.jpg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ryan/Dropbox/dev/ryanflask/guestbook/guestbook.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1345,
+								1345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 476.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ryan/Dropbox/dev/ryanflask/guestbook/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 131.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ryan/Dropbox/dev/ryanflask/guestbook/templates/csspractice.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2671,
+								2671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "cssmaster.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 600.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/emacs.sublime-project"
+			]
+		],
+		"width": 456.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 453.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

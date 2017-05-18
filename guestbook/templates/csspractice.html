@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Master</title>
+    <link rel=stylesheet type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+
+    <form method="GET" action="/processor">
+        <h1>Buy tix to the web dev gala</h1>
+        <p>Tix are $10 each. All fields are required.</p>
+
+
+        <fieldset>
+
+
+            <legend>Tickets and add-ons</legend>
+
+            <p>
+                <label for="quantity">Number of tickets</label>
+                <span class="help">Limit 8</span>
+                <input type="number" value="1" name="quantity" id="quantity" step="1" min="1" max="8">
+            </p>
+
+            <p>
+                <label for="quantity">Dinner packages</label>
+                <span class="help">Serves 2</span>
+                <input type="number" value="1" name="quantity" id="quantity" step="1" min="1" max="8">
+            </p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Payment</legend>
+            <p>
+                <label for="ccn">Credit card number</label>
+                <span class="help">No spaces or dashes.</span>
+                <input type="text" id="ccn" name="ccn" placeholder="000000000000000" maxlength="16" size="16">
+            </p>
+            <p>
+                <label for="expiration">Expiration date</label>
+                <span class="help"><abbr title="Two-digit month">MM</abbr>/<abbr title="Four-digit year">YYYY</abbr></span>
+                <input type="text" id="expiration" name="expiration" placeholder="01/2018" maxlength="7" size="7">
+            </p>
+
+        </fieldset>
+
+        <fieldset>
+            <legend>Billing Address</legend>
+            <p>
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" placeholder="Ryan McCarl" size="40">
+            </p>
+            <p>
+                <label for="street_address">Street Address</label>
+                <input type="text" id="street_address" name="street_address" placeholder="123 Main" size="40">
+            </p>
+            <p>
+                <label for="city">City</label>
+                <input type="text" id="city" name="city" placeholder="Denver">
+            </p>
+            <p>
+                <label for="city">State</label>
+                <input type="text" id="state" name="state" placeholder="CO" maxlength="2" pattern="[A-W]{2}" size="2">
+            </p>
+            <p>
+                <label for="zip">ZIP</label>
+                <input type="text" id="zip" name="zip" placeholder="12345" maxlength="5" pattern="0-9{5}" size="5">
+            </p>
+
+        </fieldset>
+
+        <button type="submit">Buy Tickets!</button>
+
+</form>
+
+
+
+
+
+</body>
+
+</html>
+    <!-- Notes on the HTML5 in this document:
+
+    <FORM>
+    Attributes:
+        - action = The URI of a program that processes the form information. This value can be overridden by a formaction attribute on a <button> or <input> element.
+        - method = The HTTP method that the browser uses to submit the form. Possible values are:
+            - post: Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.
+            -  get: Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a '?' as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.
+        - It is possible to use the :valid and :invalid CSS pseudo-classes to style a <form> element.
+
+    <FIELDSET>
+        - Used to group several controls as well as labels (<label>) within a web form.
+        Attributes:
+            - disabled = If this Boolean attribute is set, the form controls that are its descendants, except descendants of its first optional <legend> element, are disabled, i.e., not editable. They won't receive any browsing events, like mouse clicks or focus-related ones. Often browsers display such controls as gray.
+
+    <LEGEND>
+        - Represents a caption for the content of its parent <fieldset>.
+        - Includes only the global attributes.
+
+    <LABEL>
+                - Represents a caption for an item in a user interface.
+                Attributes:
+                - for = ID of a labelable form-related element in the same document as the label element. The first such element in the document with an ID matching the value of the for attribute is the *labeled control* for this label element.
+
+                Notes:
+                - A <label> can be associated with a control either by placing the control element inside the <label> element, or by using the for attribute. Such a control is called the labeled control of the label element. One input can be associated with multiple labels.
+                - Labels are not themselves directly associated with forms. They are only indirectly associated with forms through the controls with which they're associated.
+
+    <SPAN>
+            - The HTML <span> element is a generic inline container for phrasing content, which does not inherently represent anything. It can be used to group elements for styling purposes (using the class or id attributes), or because they share attribute values, such as lang. It should be used only when no other semantic element is appropriate. <span> is very much like a <div> element, but <div> is a block-level element whereas a <span> is an inline element.
+
+    <INPUT>
+            Types:
+            - button: A push button with no default behavior.
+            - checkbox: A check box. You must use the value attribute to define the value submitted by this item. Use the checked attribute to indicate whether this item is selected. You can also use the indeterminate attribute (which can only be set programmatically) to indicate that the checkbox is in an indeterminate state (on most platforms, this draws a horizontal line across the checkbox).
+            - color: A control for specifying a color. A color picker's UI has no required features other than accepting simple colors as text.
+            - date: A control for entering a date (year, month, and day, with no time).
+            - datetime-local: A control for entering a date and time, with no time zone.
+            - email: A field for editing an e-mail address. The input value is validated to contain either the empty string or a single valid e-mail address before submitting. The :valid and :invalid CSS pseudo-classes are applied as appropriate.
+            - file: A control that lets the user select a file. Use the accept attribute to define the types of files that the control can select.
+            - hidden: A control that is not displayed but whose value is submitted to the server.
+            - image: A graphical submit button. You must use the src attribute to define the source of the image and the alt attribute to define alternative text. You can use the height and width attributes to define the size of the image in pixels.
+            - month:  A control for entering a month and year, with no time zone.
+            - number: A control for entering a number.
+            - password: A single-line text field whose value is obscured. Use the maxlength attribute to specify the maximum length of the value that can be entered. NOTE: Any forms involving passwords or other sensitive info should be served over HTTPS.
+            - radio: A radio button. You must use the value attribute to define the value submitted by this item. Use the checked attribute to indicate whether this item is selected by default. Radio buttons that have the same value for the name attribute are in the same "radio button group". Only one radio button in a group can be selected at a time.
+            - range: A control for entering a number whose exact value is not important. This type control uses the following default values if the corresponding attributes are not specified:
+                - min: 0
+                - max: 100
+                - value: min + (max - min) / 2, or min if max is less than min
+                - step: 1
+            - reset: A button that resets the contents of the form to default values.
+            - search: A single-line text field for entering search strings. Line-breaks are automatically removed from the input value.
+            - submit: A button that submits the form.
+            - tel: A control for entering a telephone number. Line-breaks are automatically removed from the input value, but no other syntax is enforced. You can use attributes such as pattern and maxlength to restrict values entered in the control. The :valid and :invalid CSS pseudo-classes are applied as appropriate.
+            - text: A single-line text field. Line-breaks are automatically removed from the input value.
+            - time: A control for entering a time value with no time zone.
+            - url: A field for editing a URL. The input value is validated to contain either the empty string or a valid absolute URL before submitting. You can use attributes such as pattern and maxlength to restrict values entered in the control. The :valid and :invalid CSS pseudo-classes are applied as appropriate.
+            - week: A control for entering a date consisting of a week-year number and a week number with no time zone.
+
+    <ABBR>
+        - Represents an abbreviation and optionally provides a full description for it. If present, the title attribute must contain this full description and nothing else.
+        - Includes only the global attributes.
+        - Use the `title` attribute to define the full description of the abbreviation. Many user agents present this as a tooltip.
+        - Example:
+            <abbr title="Internationalization">I18N</abbr>
+        -->

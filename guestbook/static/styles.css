@@ -1,0 +1,35 @@
+
+/*
+whitespace char = descendant combinator.
+Pattern: A B, where B is an element of A.
+*/
+form h1 {
+    color: #009;
+}
+
+/*
+> = child combinator: selects only the immediate children of an element.
+Pattern: A > B, matching B where A is the immediate ancestor.
+- More specific than the descendant combinator.
+*/
+
+form > p {
+    font-size: 22px;
+}
+
+
+/*
++ = adjacent sibling combinator: selects elements that follow each other
+and have the same parent.
+Pattern: A + B, matching B elements that are immediately preceded by A elements.
+*/
+/*
+~ = general sibling combinator
+*/
+
+label + input {
+    display: block;
+    cear: both;
+
+
+}

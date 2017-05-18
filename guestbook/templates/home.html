@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Homepage</title>
+</head>
+<body>
+
+    <!--Liquid template examples-->
+    {% if myvar %}
+    <h4>The variable I passed in is: {{ myvar }}</h4>
+    {% else %}
+    <h4>No variable was passed in</h4>
+    {% endif %}
+
+    {% for name, url in links.items() %}
+    <a href="{{ url }}">{{ name }}</a>
+    {% endfor %}
+
+
+</body>
+</html>
